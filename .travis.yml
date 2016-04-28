@@ -20,6 +20,6 @@ deploy:
   provider: heroku
   api_key:
     secure: xCIKfTnz0d1PL2PYs75DouGQ/gRaB2+zbEBFOyChBavkMqslo+uESW2UlFSyS6fDCzkYF7oHxo31GuwBDceQB+ec3o0zgXpuFVIaStWeixsB9cXUKk/+/9RX4MLx5ZMdvO4tF9orVYIEQdgx6vi1agA6sv8txcwoY4h45ACah9/gcN8k8nhKRJ6fwmhJNP0XiQbr5LlJW3YNAJpc5sxh9nq1d3tw4R0yHHEF69QWkj1yqBdQT5uPFwArCaR45T38neAEXaz+PusjoLGSnyCegdDzCtVkAlzT5BsGZqt4wg2eYcMbxhOQIAvSAoId7Kf/QROJUzKfZHQLdBL+Bk64+qzIxwZULXI2UCQYcpfd434mL29izNG+xenYizcs16/2b4yLvihzfXq2pXzhPhlO2N9EafItacvtbjs692oinYK79+XbnA4swmqZyBGB/fN6Hdqx2Cjx0qzliYwom7699Z7TuvvpuBtmsQaIdkU9A5GGdchHqu+5iBxQbxYOpgROpsLn+3s7krnfsiD53kZbfac/VOHDz+BZ3O5W8FLv3UzlfL+U9UTEUrx/nxCF3KFJxv+M8+75RwIhJqZ9r7/vWv+JcN6+p2yeUVQ8zz8JfWVsAQiHFEAIdQu3HL3s9F3W2NCsV9Qv72KHxdk6qE3nijrLvIlpcwIGyYp9DPmZDXc=
-  app: shoeaddict_app
+  app:  limitless-ravine-97086 
   on:
     repo: CarolinaSantana/shoeaddict_app
